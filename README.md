@@ -1,0 +1,2 @@
+# USB-NTFS-android-copy-paste-solved-
+Only working solution is installing exFAT/NTFS by Paragon software from Play Store here &amp; installing total commander file manager here &amp; give both permissions. Open exFAT app, mount ur usb drive, wait 15 seconds &amp; then proceed. Then click open, total commander would open. Find ur usb &amp; copy paste or rename whatever u want. Credit to Ytbr, developer
