@@ -1,2 +1,8 @@
 # USB-NTFS-android-copy-paste-solved-
-Only working solution is installing exFAT/NTFS by Paragon software from Play Store here &amp; installing total commander file manager here &amp; give both permissions. Open exFAT app, mount ur usb drive, wait 15 seconds &amp; then proceed. Then click open, total commander would open. Find ur usb &amp; copy paste or rename whatever u want. Credit to Ytbr, developer
+issue : This USB storage device is in NTFS format, so you can't copy or move items to it from your tablet.
+
+solution: check guide/How to steps 
+
+occurs when: trying to copy paste/rename files on usb/harddrive from Android (Samsung specifically)
+
+formatting 'solution' which is on the internet isn't good as u need to backup 100's of gb + U JUST DELAYED THE ISSUE NOT SOLVED UT.
